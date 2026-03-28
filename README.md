@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" width="100%" />
+  <img src="https://github.com/kanizfatima2/kanizfatima2/blob/main/Black%20and%20White%20Minimalist%20Manager%20LinkedIn%20Background%20Photo%20(2).png" width="100%" />
 </p>
 
 <h1 align="center" style="color:#111;">Kaniz Fatima Prome</h1>
