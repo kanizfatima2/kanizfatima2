@@ -45,7 +45,8 @@
 ## 🧩 Projects
 
 - Hisabnikash — Inventory Management  
-- E-commerce System  
+- Agrosys — Production Management 
+- Silicon ISP — Bill Management 
 - Admin Dashboard  
 
 ---
