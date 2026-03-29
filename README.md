@@ -44,17 +44,18 @@
 
 ## 🧩 Projects
 
-- Hisabnikash — Inventory Management  
-- Agrosys — Production Management 
-- Silicon ISP — Bill Management 
-- Admin Dashboard  
+- <a href="https://hisabnikashbd.com/" target="_blank">
+  <span style="color:#ff7a00;"><b>Hisabnikash</b></span>
+  </a> — Inventory Management  
 
----
+- <a href="https://agrosysbd.com/" target="_blank">
+  <span style="color:#ff7a00;"><b>Agrosys</b></span>
+  </a> — Production Management  
 
-## 📫 Contact
+- <a href="https://siliconisp.com/" target="_blank">
+  <span style="color:#ff7a00;"><b>Silicon ISP</b></span>
+  </a> — Bill Management  
 
-<p align="center">
-  <a href="mailto:kaniz.fatima.prome.tech@gmail.com">
-    <img src="https://img.shields.io/badge/email-black?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+- <span style="color:#ff7a00;"><b>Admin Dashboard</b></span> — Internal Tool
+
+
