@@ -15,10 +15,10 @@ Focused on clean UI, performance, and solving real-world problems through effici
 
 ## 💫 About Me
 
-- 🌱 Currently learning advanced MERN stack  
-- 💻 Working with React, Node.js & MongoDB  
-- 🎯 Focused on clean UI & performance  
-- 🚀 Love building real-world applications  
+- Currently learning advanced MERN stack  
+- Working with React, Node.js & MongoDB  
+- Focused on clean UI & performance  
+- Love building real-world applications  
 
 ---
 
